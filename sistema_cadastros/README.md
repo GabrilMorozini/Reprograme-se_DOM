@@ -22,8 +22,7 @@ Pelo menos, uma validação customizada deve ser realizada. No exemplo de códig
 ## Tecnologias utilizadas  
 
 1. HTML
-2. CSS
-3. JavaScript
+2. JavaScript
 
 ## Projeto em execução
 
