@@ -35,7 +35,6 @@ Pelo menos, uma validação customizada deve ser realizada. No exemplo de códig
 
 [Visualizar Projeto](https://replit.com/@GabrielMorozini/Sistema-de-Cadastros?v=1)
 
-obs.: Para funcionar corretamente você deve clicar em "Open WebSite" no menu superior.
 </div>
 <br>
 
