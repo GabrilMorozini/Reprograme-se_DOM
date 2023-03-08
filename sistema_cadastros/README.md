@@ -23,13 +23,14 @@ Pelo menos, uma validação customizada deve ser realizada. No exemplo de códig
 
 1. HTML
 2. JavaScript
+3. Bootstrap 
 
 ## Projeto em execução
 
 <br>
 <img src="../img/cadastros.png" alt="Projeto em execução">
 
-
+Obs.: Para que fucione corretamente é necessário clicar em "Open Website" no menu superior 
 
 <div align="center">
 
