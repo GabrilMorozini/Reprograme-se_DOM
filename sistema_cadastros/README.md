@@ -28,13 +28,13 @@ Pelo menos, uma validação customizada deve ser realizada. No exemplo de códig
 ## Projeto em execução
 
 <br>
-<img src="../img/cadastros.png" alt="Projeto em execução">
-
-Obs.: Para que fucione corretamente é necessário clicar em "Open Website" no menu superior 
+<img src="../img/cadastros.png" alt="Projeto em execução"> 
 
 <div align="center">
 
 [Visualizar Projeto](https://replit.com/@GabrielMorozini/Sistema-de-Cadastros?v=1)
+
+Obs.: Para que fucione corretamente é necessário clicar em "Open Website" no menu superior
 
 </div>
 <br>
