@@ -46,7 +46,7 @@ Obs.: Para que funcione corretamente é necessário clicar em "Open Website" no 
   </a>
   
    <a href="https://www.linkedin.com/in/gabrielmorozini/">
-    <img src="https://img.shields.io/badge/linkedin.com/in/gabrielmorozini/-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="gmail">
+    <img src="https://img.shields.io/badge/linkedin.com/in/gabrielmorozini/-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
   </a>  
 
 </div>
